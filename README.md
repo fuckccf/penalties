@@ -20,13 +20,19 @@ CCF关于对CSP-J/S 2021第二轮认证违规处罚的公告 https://www.noi.cn/
 
 ## 2020
 
-关于对NOIP2020省组织单位工作失误处罚的公告 
+关于对NOIP2020省组织单位工作失误处罚的公告 https://www.noi.cn/xw/2020-12-15/718386.shtml
+
+CCF关于对CSP-J/S2020第二轮认证违规处罚的公告 https://www.noi.cn/xw/2020-12-10/718309.shtml
+
+关于对侵犯CCF知识产权进行处罚结果的通告 https://www.noi.cn/xw/2020-10-28/715723.shtml
 
 CCF关于对干扰认证秩序者的处罚公告 https://www.noi.cn/xw/2020-10-12/715677.shtml
 
 ## 2019
 
+CCF关于对CSP-J/S2019第二轮认证违规处罚的公告 https://www.noi.cn/xw/2019-12-09/715513.shtml
 
+关于NOI黑龙江特派员王宇华违规处罚的公告 https://www.noi.cn/xw/2019-11-18/715498.shtml
 
 ## 2018
 
