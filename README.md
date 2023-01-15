@@ -36,35 +36,47 @@ CCF关于对CSP-J/S2019第二轮认证违规处罚的公告 https://www.noi.cn/x
 
 ## 2018
 
+CCF关于对NOIP2018复赛违规处罚的公告 https://www.noi.cn/xw/2018-12-10/715288.shtml
 
+CCF关于公布NOIP2018初赛违规事件的处罚公告 https://www.noi.cn/xw/2018-11-01/715273.shtml
 
 ## 2017
 
+CCF关于NOIP2017复赛违规省份的处罚公告 https://www.noi.cn/xw/2017-11-30/715177.shtml
 
+CCF关于公布NOIP2017初赛违规事件的处罚公告 https://www.noi.cn/xw/2017-11-10/715172.shtml
+
+CCF关于实施NOI省选中处罚名额的说明 https://www.noi.cn/xw/2017-04-07/715144.shtml
 
 ## 2016
 
-
+CCF 关于NOIP2016违规事件的处罚公告 https://www.noi.cn/xw/2016-12-16/715131.shtml
 
 ## 2015
 
+CCF关于NOIP2015复赛违规省份的处罚公告 https://www.noi.cn/xw/2015-11-27/715099.shtml
 
+CCF关于河北武邑中学在NOIP2015初赛中违规的处罚通知 https://www.noi.cn/xw/2015-11-11/715095.shtml
+
+CCF关于公布NOIP2015初赛违规事件处罚的通告 https://www.noi.cn/xw/2015-11-04/715094.shtml
 
 ## 2014
 
-
+> PR welcome!
 
 ## 2013
 
+CCF关于对NOIP2013初赛违规事件相关学校和选手处罚决定的通告 https://www.noi.cn/xw/2013-11-26/715014.shtml
 
+CCF对NOIP作弊选手处罚结果的公告 https://www.noi.cn/xw/2013-01-11/714963.shtml
 
 ## 2012
 
-
+CCF关于对NOIP作弊选手处罚决定的通告 https://www.noi.cn/xw/2012-12-12/714962.shtml
 
 ## 2011
 
-
+CCF关于对NOI违约选手处罚决定的通告 https://www.noi.cn/xw/2011-11-18/714897.shtml
 
 ## 相关资源
 
